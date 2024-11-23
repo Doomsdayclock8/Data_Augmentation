@@ -1,0 +1,10 @@
+{
+    "name": "my_data",
+    "id": "my_data--default",
+    "task_type": "binclass",
+    "n_num_features": 60,
+    "n_cat_features": 0,
+    "train_size": 166,
+    "val_size": 166,
+    "test_size": 166
+}
