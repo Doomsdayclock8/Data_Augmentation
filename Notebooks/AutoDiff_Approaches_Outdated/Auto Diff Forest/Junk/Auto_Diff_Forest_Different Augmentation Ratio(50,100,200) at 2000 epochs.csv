@@ -1,0 +1,25 @@
+Dataset,Augmentaion Ratio,Recall_Original,Recall_Generated
+diabetes,50%,0.6625,0.8125
+diabetes,100%,0.6625,0.875
+diabetes,200%,0.6625,0.9375
+mammography,50%,0.594594595,0.716216216
+mammography,100%,0.594594595,0.824324324
+mammography,200%,0.594594595,0.797297297
+creditcard_sampled,50%,0.764705882,0.823529412
+creditcard_sampled,100%,0.764705882,0.882352941
+creditcard_sampled,200%,0.764705882,0.823529412
+spambase,50%,1,1
+spambase,100%,1,1
+spambase,200%,1,1
+reduced_diabetes,50%,0.6625,0.825
+reduced_diabetes,100%,0.6625,0.8375
+reduced_diabetes,200%,0.6625,0.875
+reduced_spambase,50%,1,1
+reduced_spambase,100%,1,1
+reduced_spambase,200%,1,1
+HTRU,50%,0.835390947,0.907407407
+HTRU,100%,0.835390947,0.923868313
+HTRU,200%,0.835390947,0.923868313
+creditcard,50%,0.801470588,0.889705882
+creditcard,100%,0.801470588,0.867647059
+creditcard,200%,0.801470588,0.897058824
